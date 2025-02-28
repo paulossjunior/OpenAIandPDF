@@ -11,7 +11,7 @@ This application provides a simple interface to:
 
 ## 👨‍🏫 Attribution
 
-This code was originally created by Professor Daniel Cavalieri (https://www.linkedin.com/in/daniel-cavalieri-323272123/) and adapted by Paulo Sergio dos Santos Júnior (https://www.linkedin.com/in/paulossjunior/).
+This code was originally created by [Professor Daniel Cavalieri](https://www.linkedin.com/in/daniel-cavalieri-323272123/) and adapted by [Paulo Sergio dos Santos Júnior](https://www.linkedin.com/in/paulossjunior/).
 
 ## ✅ Prerequisites
 
